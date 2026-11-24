@@ -9,7 +9,7 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 
 const ENTRY_LINE =
-  "We lost your file. It is now living its best life in a folder named final_FINAL_v2.";
+  "Your file is gone. The backup was a screenshot.";
 
 const MAX_CHARS = 200;
 
